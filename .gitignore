@@ -2,7 +2,6 @@
 .idea
 composer.phar
 dist
-lib
 node_modules
 s3keys.sh
 src/test/manual/bundle
